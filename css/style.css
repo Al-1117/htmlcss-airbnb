@@ -25,10 +25,8 @@
 /******************** Main Wrapper-CITY-*****************************/
 .main-wrapper .city{
   position: relative;
-  background-color: red;
   height: 31vh;
   width: 95%;
-  background-color: rgba(0, 0, 0, 0.5);
   background-size: cover;
   margin: 5px;
 }
@@ -70,7 +68,7 @@
 .main-wrapper .layover {
   height: 100%;
   width: 100%;
-  padding: 5px;
+
   background-color: rgba(0, 0, 0, 0.5);
 }
 
